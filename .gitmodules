@@ -1,3 +1,9 @@
 [submodule "CS50-Havard-2018"]
 	path = CS50-Havard-2018
 	url = https://github.com/XinheLIU/CS50-Havard-2018
+[submodule "Software-Design-and-Architecture-UniversityofAlberta"]
+	path = Software-Design-and-Architecture-UniversityofAlberta
+	url = https://github.com/XinheLIU/Software-Design-and-Architecture-UniversityofAlberta
+[submodule "Python-Courses"]
+	path = Python-Courses
+	url = https://github.com/XinheLIU/Python-Courses
