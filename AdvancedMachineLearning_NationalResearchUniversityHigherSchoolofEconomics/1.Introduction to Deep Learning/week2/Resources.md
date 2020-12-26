@@ -1,4 +1,0 @@
-- http://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/
-- https://www.tensorflow.org/tutorials
-- https://www.tensorflow.org/api_docs/python/
-- https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html
