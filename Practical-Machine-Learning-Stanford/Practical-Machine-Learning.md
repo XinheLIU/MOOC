@@ -2,12 +2,9 @@
 
 Course Notes
 
-> [Course Webpage](https://c.d2l.ai/stanford-cs329p)
+> [Course Webpage](https://c.d2l.ai/stanford-cs329p/)
 
 ## 1 Overview
-
-  1. 第一课：Resume: data scientist的角色，能力圈——怎么寻找有挑战的问题-》 一些行业基本问题（自己去找）--》 找行业高手与天花板（前沿问题）
-  2. 第二课：找数据（数据集的edge；community里的人在干嘛）ByteTec
 
 - 1.1
   - 简历出发 字节高盛的经历 解决的问题还是挺有意思的 不要太浮躁 其中字节的更有意思 多学习复杂的广告业务 流量测业务 black litterman等k
