@@ -9,7 +9,8 @@
     - [Turning data into insights](#turning-data-into-insights)
       - [6 phases of the data analysis process (Data Anlysis Life Cycle)](#6-phases-of-the-data-analysis-process-data-anlysis-life-cycle)
       - [3 dimensions of data analytics](#3-dimensions-of-data-analytics)
-    - [Understanding the Data Ecosystem](#understanding-the-data-ecosystem)
+      - [the difference between data scientists and data analysts.](#the-difference-between-data-scientists-and-data-analysts)
+    - [the Data Ecosystem](#the-data-ecosystem)
   - [Week 2 Data Analyst's Key Skills](#week-2-data-analysts-key-skills)
     - [Key data analyst's skills](#key-data-analysts-skills)
     - [Thinking analytically](#thinking-analytically)
@@ -50,6 +51,19 @@ after analysts have created insights from data, what happens?
 
   Well, a lot. Those insights are shared with others, decisions are made, and businesses take action. And here's where it can get really exciting. Data analytics can help organizations completely rethink something they do or point them in a totally new direction
 
+The first step in data-driven decision-making is figuring out the business need. Usually, this is a problem that needs to be solved.
+
+- new company needing to establish better brand recognition, so it can compete with bigger, more well-known competitors.
+- an organization wants to improve a product and needs to figure out how to source parts from a more sustainable or ethically responsible supplier.
+- could be a business trying to solve the problem of unhappy employees, low levels of engagement, satisfaction and retention.
+  
+Whatever the problem is, once it's defined, a data analyst finds data, analyzes it and uses it to uncover trends, patterns and relationships. Sometimes the data-driven strategy will build on what's worked in the past. Other times, it can guide a business to branch out in a whole new direction
+
+- movie streaming service
+- e-commerce
+  
+Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem.
+
 #### 6 phases of the data analysis process (Data Anlysis Life Cycle)
 
 1. Ask questions and define the problem.(Business Challenge/Objective/Question)
@@ -67,35 +81,6 @@ after analysts have created insights from data, what happens?
    1. (Communicating and interpreting results)
 6. Act on the data and use the analysis results.
    1. (Putting your insights to work to solve the problem)
-
-#### 3 dimensions of data analytics
-
-Machine learning, statistics, and analytics.These are separated by how many decisions you know you want to make before you begin with them.
-
-- if you want to make a few important decisions under uncertainty, that is **statistics**.
-  - The excellence of statistics is rigor. Statisticians are essentially philosophers, epistemologists. They are very, very careful about protecting decision-makers from coming to the wrong conclusion.
-- If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI.
-  - Performance is the excellence of the machine learning and AI engineer.
-- But what if you don't know how many decisions you want to make before you begin? What if what you're looking for is inspiration? You want to encounter your unknown unknowns. You want to understand your world. That is analytics.
-  - The excellence of an analyst is speed. How quickly can you surf through vast amounts of data to explore it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers
-
-### Understanding the Data Ecosystem
-
-Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them.
-
-the difference between data scientists and data analysts.
-
-- Data science is defined as creating new ways of **modeling and understanding the unknown** by using raw data. Data scientists create new questions using data
-- Analysts find answers to existing questions by creating insights from data sources.
-
-- The first step in data-driven decision-making is figuring out the business need. Usually, this is a problem that needs to be solved.
-  - new company needing to establish better brand recognition, so it can compete with bigger, more well-known competitors.
-  - an organization wants to improve a product and needs to figure out how to source parts from a more sustainable or ethically responsible supplier.
-  - could be a business trying to solve the problem of unhappy employees, low levels of engagement, satisfaction and retention.
-- Whatever the problem is, once it's defined, a data analyst finds data, analyzes it and uses it to uncover trends, patterns and relationships. Sometimes the data-driven strategy will build on what's worked in the past. Other times, it can guide a business to branch out in a whole new direction
-  - movie streaming service
-  - e-commerce
-- data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem.
 
 [EMC's data analysis life cycle](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119183686)
 
@@ -139,6 +124,26 @@ Authors Thomas Erl, Wajid Khattak, and Paul Buhler proposed a big data analytics
 9. Utilization of analysis results
 
 they have just broken down what we have been referring to as Prepare and Process into smaller steps.
+
+#### 3 dimensions of data analytics
+
+Machine learning, statistics, and analytics.These are separated by how many decisions you know you want to make before you begin with them.
+
+- if you want to make a few important decisions under uncertainty, that is **statistics**.
+  - The excellence of statistics is rigor. Statisticians are essentially philosophers, epistemologists. They are very, very careful about protecting decision-makers from coming to the wrong conclusion.
+- If you want to automate, in other words, make many, many, many decisions under uncertainty, that is machine learning and AI.
+  - Performance is the excellence of the machine learning and AI engineer.
+- But what if you don't know how many decisions you want to make before you begin? What if what you're looking for is inspiration? You want to encounter your unknown unknowns. You want to understand your world. That is analytics.
+  - The excellence of an analyst is speed. How quickly can you surf through vast amounts of data to explore it and discover the gems, the beautiful potential insights that are worth knowing about and bringing to your decision-makers
+
+#### the difference between data scientists and data analysts.
+
+- Data science is defined as creating new ways of **modeling and understanding the unknown** by using raw data. Data scientists create new questions using data
+- Analysts find answers to existing questions by creating insights from data sources.
+
+### the Data Ecosystem
+
+Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them.
 
 ## Week 2 Data Analyst's Key Skills
 
