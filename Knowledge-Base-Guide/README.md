@@ -1,35 +1,30 @@
 # MOOC Knowledge Base Guide
 
-> **Welcome to the AI-powered intelligent knowledge base!**
+Last updated: 2026-07-07
 
-This guide helps you navigate and make the most of this curated collection of MOOC course materials.
+This guide points to the MOOC category repositories and the lightweight navigation material kept in this hub.
 
-## Quick Navigation
+## Course Repositories
 
-- **[Learning Paths](Learning-Paths.md)** - Recommended study sequences by domain
-- **[AI Tools Guide](AI-Tools-Guide.md)** - How to use AI-powered features
+| Domain | Repository |
+| --- | --- |
+| GenAI and Agent | [MOOC_GenAI_and_Agent](https://github.com/XinheLIU/MOOC_GenAI_and_Agent) |
+| AI and Machine Learning | [MOOC_AI_and_Machine_Learning](https://github.com/XinheLIU/MOOC_AI_and_Machine_Learning) |
+| Data Science and Analysis | [MOOC_Data_Science_and_Analysis](https://github.com/XinheLIU/MOOC_Data_Science_and_Analysis) |
+| Programming | [MOOC_Programming_Courses](https://github.com/XinheLIU/MOOC_Programming_Courses) |
+| Software Design and Architecture | [MOOC_Software_Design_and_Architecture](https://github.com/XinheLIU/MOOC_Software_Design_and_Architecture) |
 
-## Repository Structure
+## Hub Guides
 
-This knowledge base is organized by learning domains:
+- [Learning Paths](Learning-Paths.md)
+- [AI Tools Guide](AI-Tools-Guide.md)
 
-- **01_AI-and-Machine-Learning/** - Machine learning, deep learning, AI courses
-- **02_Programming/** - Programming fundamentals and languages
-- **03_Data-Science-and-Analysis/** - Data science and analytics
-- **04_Math-and-Statistics/** - Mathematical foundations
-- **05_Software-Design-and-Architecture/** - Software engineering and design
-- **06_Other-Open-Courses/** - Additional courses
+## How to Use This Hub
 
-## How to Use This Repository
-
-1. **Choose Your Learning Path** - See [Learning-Paths.md](Learning-Paths.md) for domain-specific recommendations
-2. **Explore Courses** - Each course folder contains a README.md with course details
-3. **Use AI Tools** - Leverage semantic search and AI assistance (see [AI-Tools-Guide.md](AI-Tools-Guide.md))
+1. Choose a category repository from the table above.
+2. Clone that repository when you need the full course files.
+3. Use this hub for navigation, learning paths, and small reference assets.
 
 ## Contributing
 
-This is a personal learning repository that's open for public use. For questions or suggestions, please open an issue.
-
----
-
-*Last updated: January 26, 2026*
+This is a personal learning index open for public use. For questions or suggestions, please open an issue.
